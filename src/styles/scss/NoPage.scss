@@ -1,0 +1,11 @@
+.not-found {
+    div {
+        margin-top: 20vh;
+        margin-left: 30vw;
+        display: inline-block;
+    }
+
+    div:nth-child(2) {
+        margin-left: 3vw;
+    }
+}
